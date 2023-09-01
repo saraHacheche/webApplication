@@ -1,0 +1,43 @@
+fieldset {
+    padding:5px 5px 5px 5px;
+    margin:5px 5px;
+    border:1px solid #DF3F3F;
+  
+}
+
+legend {
+    color:#DF3F3F;
+    font-weight:bold;
+}
+
+
+footer {   
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #030303;
+    margin-bottom: 5%;
+    background-color: red;
+    font-size: 1rem;
+    padding-top: 10px; 
+    padding-bottom: 15px;      
+}
+
+section{
+    display: flex;
+    margin: 1rem;
+}
+
+.row-margin {
+    margin-left: 10%;
+    margin-right: 25%;
+}
+body{
+    background-color:rgba(198, 238, 18, 0.3);
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    color: rgb(12, 13, 29);
+  }
+
